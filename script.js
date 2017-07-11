@@ -1,4 +1,4 @@
-//Contact form functionality
+//Form functionality
 (function () {
     var $form = $('#form');
     var $response = $form.find('#response');
